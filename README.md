@@ -4,7 +4,9 @@
 - Provide an input image with parts to recognize, and then it will visualize the predicted regions of facial parts from the provided image.
 
 ![](tmp/test1.png)
+
 ![](tmp/test2.png)
+
 Image: [source](https://www.vox.com/policy-and-politics/2018/5/9/17335306/trump-tweet-twitter-latest-fake-news-credentials)
 
 ## Requirements

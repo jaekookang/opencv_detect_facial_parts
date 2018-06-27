@@ -4,6 +4,7 @@
 - Provide an input image with parts to recognize, and then it will visualize the predicted regions of facial parts from the provided image.
 
 ![](tmp/test.png)
+Image: [source](https://www.vox.com/policy-and-politics/2018/5/9/17335306/trump-tweet-twitter-latest-fake-news-credentials)
 
 ## Requirements
 
@@ -15,10 +16,12 @@
 	# 1. (MUST) Create virtual environment with python3.5 and conda
 	$ conda create -n opencv python==3.5.5 conda   # for example
 	$ source activate opencv
-	
+	```
+	```
 	# 2. Install opencv3
 	$ conda install -c menpo opencv3
-	
+	```
+	```
 	# 3. Test
 	$ source activate opencv
 	(opencv)$

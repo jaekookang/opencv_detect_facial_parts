@@ -3,7 +3,8 @@
 - This module is a wrapper for facial parts recognition using opencv3 and dlib.
 - Provide an input image with parts to recognize, and then it will visualize the predicted regions of facial parts from the provided image.
 
-![](tmp/test.png)
+![](tmp/test1.png)
+![](tmp/test2.png)
 Image: [source](https://www.vox.com/policy-and-politics/2018/5/9/17335306/trump-tweet-twitter-latest-fake-news-credentials)
 
 ## Requirements
@@ -58,4 +59,6 @@ python detect.py -m model/shape_predictor_68_face_landmarks.dat -i image/trump.j
 
 ## References
 - [https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/)
-- [https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/](https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/)
+- Model: [https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/](https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/)
+- Blog: [https://www.learnopencv.com/facial-landmark-detection/](https://www.learnopencv.com/facial-landmark-detection/)
+- Web platform: [https://www.faceplusplus.com/landmarks/](https://www.faceplusplus.com/landmarks/)

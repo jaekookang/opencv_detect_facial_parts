@@ -64,4 +64,4 @@ python detect.py -m model/shape_predictor_68_face_landmarks.dat -i image/trump.j
 - Model: [https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/](https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/)
 - Blog: [https://www.learnopencv.com/facial-landmark-detection/](https://www.learnopencv.com/facial-landmark-detection/)
 - Web platform: [https://www.faceplusplus.com/landmarks/](https://www.faceplusplus.com/landmarks/)
-- Speech2face: (https://github.com/hyung8758/speech2face)[https://github.com/hyung8758/speech2face]
+- Speech2face: [https://github.com/hyung8758/speech2face](https://github.com/hyung8758/speech2face)
